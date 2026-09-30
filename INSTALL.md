@@ -62,14 +62,8 @@ Download the disk image for your Mac's architecture —
 `besprited-v<version>-macos-intel.dmg` for Intel — and double-click the
 `.dmg` to mount it.
 
-In the Finder window that opens, choose `Go` → `Applications` from the menu
-bar to open your Applications folder alongside it.
-
-![Finder Go menu with Applications selected](docs/install_mac_1.jpg)
-
-Drag the `besprited` app onto the Applications folder.
-
-![Dragging besprited.app into Applications](docs/install_mac_2.jpg)
+In the window that opens, drag the `besprited` app onto the
+**Applications** shortcut.
 
 Apple Developer signing certificates are a paid subscription, and this project
 isn't funded well enough to justify one, so the app is self-signed by our
