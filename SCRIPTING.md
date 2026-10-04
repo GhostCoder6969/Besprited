@@ -188,7 +188,7 @@
      - y: integer
      - color: a 32-bit color in 8888 RGBA format.
       returns: Nothing
-      writes the color onto the image at the the given coordinate.
+      writes the color onto the image at the given coordinate.
 
    - `getImageData()`:
       returns: All pixels in a Uint8Array
@@ -1124,7 +1124,7 @@
      - y: integer
      - color: a 32-bit color in 8888 RGBA format.
       returns: Nothing
-      writes the color onto the image at the the given coordinate.
+      writes the color onto the image at the given coordinate.
 
    - `getImageData()`:
       returns: All pixels in a Uint8Array
